@@ -26,7 +26,7 @@
                 <div class="panel-body">
                     Hello {{\Auth::user()->first_name}}!
                     <br>
-                    You can create a note, create a category, or display your notes.
+                    You can create a note, create a category, or display your notes. Enjoy!
                 </div>
             </div>
         </div>

@@ -24,7 +24,7 @@
                         <div class="panel-heading">Default</div>
 
                         <div class="panel-body">
-                            This is the default category. You can't edit this description!
+                            This is the default category. You can't delete it.
                         </div>
                     @endif
                 </div>
