@@ -24,7 +24,7 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    Hello {{\Auth::user()->first_name}} {{\Auth::user()->last_name}}! Welcome on Kantanotes!
+                    Hello {{\Auth::user()->first_name}} {{\Auth::user()->last_name}}!
                     <br>
                     You can create a note, create a category, or display your notes. Enjoy!
                 </div>
