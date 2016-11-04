@@ -1,5 +1,4 @@
-.env
-config/database.php
+
 .idea/workspace.xml
 .idea/
 .idea
