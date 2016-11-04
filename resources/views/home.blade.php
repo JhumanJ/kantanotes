@@ -27,6 +27,7 @@
                     Hello {{\Auth::user()->first_name}} {{\Auth::user()->last_name}}! 
                     <br>
                     You can create a note, create a category, or display your notes. Enjoy the app!
+                    Feel free to contact us for any queries!
                 </div>
             </div>
         </div>
